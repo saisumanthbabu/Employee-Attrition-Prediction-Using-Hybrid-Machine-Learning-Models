@@ -244,15 +244,3 @@ These metrics provide a broader view of model performance, particularly because 
 
 ---
 
-## 🏆 Results
-
-The proposed GA + LightGBM + CatBoost model was compared with an existing GA + LightGBM approach.
-
-| Model | Accuracy | Precision | Recall | F1-Score |
-|---|---:|---:|---:|---:|
-| GA + LightGBM | 92% | 89% | 85% | 87% |
-| GA + LightGBM + CatBoost | 93% | 96% | 90% | 93% |
-
-The proposed hybrid model achieved better results across the reported evaluation metrics.
-
-According to the project results, the proposed model achieved 93% accuracy, 96% precision, 90% recall, and 93% F1-score.
